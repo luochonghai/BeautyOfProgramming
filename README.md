@@ -1,7 +1,4 @@
-# BeautyOfProgramming
-Codes for the book.
-
-**Contents**
+# Contents
 ## Chapter 1 游戏之乐
 ### 1.1 让CPU占用率曲线听你指挥
 ### 1.2 中国象棋将帅问题
