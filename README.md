@@ -5,4 +5,5 @@
 
 ## Chapter 4 数学之趣
 ### 4.11 挖雷游戏的概率
-<img src="https://github.com/luochonghai/BeautyOfProgramming/blob/master/Interest_On_Maths/4.11/values.fig"  alt="图片加载失败时，显示这段字"/>
+当地雷从10个变化到240个，P(A),P(B),P(C)的三条曲线图
+<img src="https://github.com/luochonghai/BeautyOfProgramming/blob/master/Interest_On_Maths/4.11/values.png"  alt="4.11图"/>
