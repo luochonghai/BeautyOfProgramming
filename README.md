@@ -32,6 +32,9 @@ CPU占用率曲线为正弦曲线的效果图
 将循环化为递归（代码变得简洁，不过需要的栈更大了）
 ### 3.3 计算字符串的相似度
 编辑距离问题(leetcode 72.Edit distance)
+### 3.10 分层遍历二叉树
+leetcode 102.Binary Tree Level Order Traversal
+本质上是两种做法：BFS和DFS
 
 ## Chapter 4 数学之趣
 ### 4.1金刚坐飞机问题
