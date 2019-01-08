@@ -83,7 +83,8 @@ leetcode 102.Binary Tree Level Order Traversal
 （4）如何判断点是否在四面体内
 通过行列式来计算有向体积的方向（四阶行列式）
 ### 4.9 数独知多少
-
+简化版推理：https://philoscience.iteye.com/blog/1525673
+详见http://www.afjarvis.staff.shef.ac.uk/sudoku/
 ### 4.11 挖雷游戏的概率
 当地雷从10个变化到240个，P(A),P(B),P(C)的三条曲线图
 <img src="https://github.com/luochonghai/BeautyOfProgramming/blob/master/Interest_On_Maths/4.11/values.png"  alt="4.11图"/>
