@@ -80,6 +80,8 @@ leetcode 102.Binary Tree Level Order Traversal
 可以使用图形学算法来计算（待完成）
 （4）如何判断点是否在四面体内
 通过行列式来计算有向体积的方向（四阶行列式）
+### 4.9 数独知多少
+给定一个数独，通过转置、调换一组行或者一组列、互换所有的某两个数对的位置，就可以生成新的数独（只实现了调换一组行的操作）。
 ### 4.11 挖雷游戏的概率
 当地雷从10个变化到240个，P(A),P(B),P(C)的三条曲线图
 <img src="https://github.com/luochonghai/BeautyOfProgramming/blob/master/Interest_On_Maths/4.11/values.png"  alt="4.11图"/>
