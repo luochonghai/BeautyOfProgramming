@@ -82,6 +82,8 @@ leetcode 102.Binary Tree Level Order Traversal
 可以使用图形学算法来计算（待完成）
 （4）如何判断点是否在四面体内
 通过行列式来计算有向体积的方向（四阶行列式）
+### 4.6 桶中取黑白球
+一道推理题，之后符号化推理过程的思想很漂亮。
 ### 4.9 数独知多少
 简化版推理：https://philoscience.iteye.com/blog/1525673
 详见http://www.afjarvis.staff.shef.ac.uk/sudoku/
