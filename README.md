@@ -84,6 +84,8 @@ leetcode 102.Binary Tree Level Order Traversal
 通过行列式来计算有向体积的方向（四阶行列式）
 ### 4.6 桶中取黑白球
 一道推理题，之后符号化推理过程的思想很漂亮。
+### 4.7 蚂蚁爬杆
+考虑一只蚂蚁的爬行的最长时间，除了考虑这只蚂蚁的爬行方向之外，还需要考虑其他蚂蚁的爬行方向。
 ### 4.9 数独知多少
 简化版推理：https://philoscience.iteye.com/blog/1525673
 详见http://www.afjarvis.staff.shef.ac.uk/sudoku/
